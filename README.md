@@ -114,20 +114,6 @@ All results are reproducible using:
 - Consistent feature ordering
 - Exact algorithm implementation as described in the paper
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{umemoto2025asp,
-  title={Session-Adaptive Keystroke Dynamics: Outlier-Resilient Profiling with Robust Statistics},
-  author={Umemoto, Yuji and Tanaka, Ken-ichi},
-  journal={Journal of the Institute of Image Information and Television Engineers},
-  note={Submitted for publication},
-  year={2025}
-}
-```
-
 ## Author
 
 **Yuji Umemoto**  
