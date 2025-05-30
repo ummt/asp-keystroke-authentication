@@ -1,0 +1,9 @@
+# ASP Keystroke Authentication - Python Dependencies
+# 
+# Core scientific computing libraries
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Optional: For enhanced data analysis (if needed)
+# matplotlib>=3.5.0  # For plotting (uncomment if visualization needed)
+# scipy>=1.7.0       # For additional statistical functions (uncomment if needed)

@@ -1,0 +1,186 @@
+
+C:\>python asp_simple_implementation.py
+============================================================
+ASP Keystroke Authentication System
+Author: Yuji Umemoto, Kwassui Women's University
+============================================================
+Loading dataset: DSL-StrongPasswordData.csv
+Features: 31 timing features
+Dataset: 51 users, 20400 samples
+
+Running comprehensive evaluation...
+================================================================================
+ASP KEYSTROKE AUTHENTICATION EVALUATION
+Implementation for Academic Paper
+================================================================================
+
+Evaluating 51 users
+Training ratio: 50.0%
+
+[1/51] User: s002
+ASP EER: 21.25%
+
+[2/51] User: s003
+ASP EER: 26.25%
+
+[3/51] User: s004
+ASP EER: 12.00%
+
+[4/51] User: s005
+ASP EER: 4.25%
+
+[5/51] User: s007
+ASP EER: 22.00%
+
+[6/51] User: s008
+ASP EER: 12.00%
+
+[7/51] User: s010
+ASP EER: 2.50%
+
+[8/51] User: s011
+ASP EER: 17.25%
+
+[9/51] User: s012
+ASP EER: 5.50%
+
+[10/51] User: s013
+ASP EER: 11.25%
+
+[11/51] User: s015
+ASP EER: 17.75%
+
+[12/51] User: s016
+ASP EER: 7.00%
+
+[13/51] User: s017
+ASP EER: 3.25%
+
+[14/51] User: s018
+ASP EER: 18.75%
+
+[15/51] User: s019
+ASP EER: 3.25%
+
+[16/51] User: s020
+ASP EER: 18.50%
+
+[17/51] User: s021
+ASP EER: 11.50%
+
+[18/51] User: s022
+ASP EER: 4.00%
+
+[19/51] User: s024
+ASP EER: 4.25%
+
+[20/51] User: s025
+ASP EER: 6.00%
+
+[21/51] User: s026
+ASP EER: 8.75%
+
+[22/51] User: s027
+ASP EER: 6.50%
+
+[23/51] User: s028
+ASP EER: 7.75%
+
+[24/51] User: s029
+ASP EER: 12.75%
+
+[25/51] User: s030
+ASP EER: 11.75%
+
+[26/51] User: s031
+ASP EER: 25.25%
+
+[27/51] User: s032
+ASP EER: 37.50%
+
+[28/51] User: s033
+ASP EER: 10.75%
+
+[29/51] User: s034
+ASP EER: 24.75%
+
+[30/51] User: s035
+ASP EER: 18.75%
+
+[31/51] User: s036
+ASP EER: 1.00%
+
+[32/51] User: s037
+ASP EER: 18.75%
+
+[33/51] User: s038
+ASP EER: 7.50%
+
+[34/51] User: s039
+ASP EER: 7.50%
+
+[35/51] User: s040
+ASP EER: 13.75%
+
+[36/51] User: s041
+ASP EER: 14.50%
+
+[37/51] User: s042
+ASP EER: 3.25%
+
+[38/51] User: s043
+ASP EER: 2.25%
+
+[39/51] User: s044
+ASP EER: 6.75%
+
+[40/51] User: s046
+ASP EER: 13.25%
+
+[41/51] User: s047
+ASP EER: 24.25%
+
+[42/51] User: s048
+ASP EER: 10.00%
+
+[43/51] User: s049
+ASP EER: 4.50%
+
+[44/51] User: s050
+ASP EER: 16.75%
+
+[45/51] User: s051
+ASP EER: 18.75%
+
+[46/51] User: s052
+ASP EER: 1.00%
+
+[47/51] User: s053
+ASP EER: 5.00%
+
+[48/51] User: s054
+ASP EER: 12.75%
+
+[49/51] User: s055
+ASP EER: 2.75%
+
+[50/51] User: s056
+ASP EER: 14.75%
+
+[51/51] User: s057
+ASP EER: 18.25%
+
+Successful evaluations: 51/51
+
+=== FINAL RESULTS ===
+Mean EER: 11.97% ± 7.95%
+Median EER: 11.50%
+
+============================================================
+FINAL RESULTS
+============================================================
+Equal Error Rate (EER): 11.97%
+Standard Deviation: ±7.95%
+Median EER: 11.50%
+Users evaluated: 51
+============================================================
